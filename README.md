@@ -1,2 +1,2 @@
 # VR-Fruit-Picking-Simulator
-This is a fruit picking game that I made in Virtual Reality (Oculus Quest) for a class.
+This is a Virtual Reality (Oculus Quest) fruit picking game that I made in Unity for a class.
