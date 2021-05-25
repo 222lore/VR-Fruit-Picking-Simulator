@@ -1,0 +1,177 @@
+Using pre-set license
+
+ COMMAND LINE ARGUMENTS:
+/Volumes/LaCie/Unity/Hub/Editor/2020.2.1f1/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker1
+-projectPath
+/Volumes/LaCie/Unity Projects/VR Testing
+-logFile
+Logs/AssetImportWorker1.log
+-srvPort
+54353
+Successfully changed project path to: /Volumes/LaCie/Unity Projects/VR Testing
+/Volumes/LaCie/Unity Projects/VR Testing
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 289.46 ms, found 5 plugins.
+Preloading 1 native plugins for Editor in 14.86 ms.
+Initialize engine version: 2020.2.1f1 (270dd8c3da1c)
+[Subsystems] Discovering subsystems at path /Volumes/LaCie/Unity/Hub/Editor/2020.2.1f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Volumes/LaCie/Unity Projects/VR Testing/Assets
+GfxDevice: creating device client; threaded=0
+2021-05-25 21:00:22.276 Unity[93016:1166829] S24F350 preferred device: Intel(R) Iris(TM) Graphics 6100 (low power)
+2021-05-25 21:00:22.276 Unity[93016:1166829] Metal devices available: 1
+2021-05-25 21:00:22.276 Unity[93016:1166829] 0: Intel(R) Iris(TM) Graphics 6100 (low power)
+2021-05-25 21:00:22.278 Unity[93016:1166829] Using device Intel(R) Iris(TM) Graphics 6100 (low power)
+Initializing Metal device caps: Intel(R) Iris(TM) Graphics 6100
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Initialize mono
+Mono path[0] = '/Volumes/LaCie/Unity/Hub/Editor/2020.2.1f1/Unity.app/Contents/Managed'
+Mono path[1] = '/Volumes/LaCie/Unity/Hub/Editor/2020.2.1f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = '/Volumes/LaCie/Unity/Hub/Editor/2020.2.1f1/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56016
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Volumes/LaCie/Unity/Hub/Editor/2020.2.1f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Registered in 0.155084 seconds.
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 296.96 ms, found 5 plugins.
+Preloading 1 native plugins for Editor in 1.44 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  7.665 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.136575 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 1.09 ms, found 5 plugins.
+Preloading 1 native plugins for Editor in 0.67 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.862 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Launching external process: /Volumes/LaCie/Unity/Hub/Editor/2020.2.1f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.04 seconds
+Refreshing native plugins compatible for Editor in 2.14 ms, found 5 plugins.
+Preloading 1 native plugins for Editor in 1.41 ms.
+Unloading 2158 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 176.5 MB.
+System memory in use after: 176.3 MB.
+
+Unloading 112 unused Assets to reduce memory usage. Loaded Objects now: 2578.
+Total: 5.753891 ms (FindLiveObjects: 0.621489 ms CreateObjectMapping: 0.190434 ms MarkObjects: 4.208958 ms  DeleteObjects: 0.730810 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Game/Assets/Block Fruits/Apple2.prefab
+  artifactKey: Guid(4daf63066bc5c46c6841e41b2829a240) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/Assets/Block Fruits/Apple2.prefab using Guid(4daf63066bc5c46c6841e41b2829a240) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e05661e114207731cf9ee1a8768ba7d') in 0.724090 seconds
+  Import took 0.756746 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000462 seconds.
+  path: Assets/Game/Assets/Block Fruits/Apple2WithOutline.mat
+  artifactKey: Guid(504b61de3eb7149ce8594d4549657e98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/Assets/Block Fruits/Apple2WithOutline.mat using Guid(504b61de3eb7149ce8594d4549657e98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a2d076f6e2a38798f55ad12657a824bb') in 0.576054 seconds
+  Import took 0.613124 seconds .
+
+========================================================================
+Received Prepare
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 249.25 ms, found 5 plugins.
+Preloading 1 native plugins for Editor in 1.30 ms.
+Unloading 29 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 145.3 MB.
+System memory in use after: 145.1 MB.
+
+Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 2618.
+Total: 29.487962 ms (FindLiveObjects: 1.014438 ms CreateObjectMapping: 0.278304 ms MarkObjects: 27.757396 ms  DeleteObjects: 0.436091 ms)
+
+========================================================================
+Received Prepare
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 228.81 ms, found 5 plugins.
+Preloading 1 native plugins for Editor in 1.70 ms.
+Unloading 29 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 145.3 MB.
+System memory in use after: 145.1 MB.
+
+Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 2618.
+Total: 62.892574 ms (FindLiveObjects: 1.169516 ms CreateObjectMapping: 0.233660 ms MarkObjects: 60.905136 ms  DeleteObjects: 0.576441 ms)
+
+========================================================================
+Received Prepare
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 235.11 ms, found 5 plugins.
+Preloading 1 native plugins for Editor in 1.04 ms.
+Unloading 29 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 145.4 MB.
+System memory in use after: 145.2 MB.
+
+Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 2618.
+Total: 31.537220 ms (FindLiveObjects: 1.396485 ms CreateObjectMapping: 0.336092 ms MarkObjects: 27.548167 ms  DeleteObjects: 2.254360 ms)
+
+========================================================================
+Received Prepare
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 207.98 ms, found 5 plugins.
+Preloading 1 native plugins for Editor in 1.72 ms.
+Unloading 29 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 145.4 MB.
+System memory in use after: 145.2 MB.
+
+Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 2618.
+Total: 49.427492 ms (FindLiveObjects: 1.055525 ms CreateObjectMapping: 0.209493 ms MarkObjects: 45.353293 ms  DeleteObjects: 2.806986 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 3631.630464 seconds.
+  path: Assets/Game/Assets/Block Fruits/Cherry.prefab
+  artifactKey: Guid(40f9c4b4c2dd54c0c93b392471f28a97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/Assets/Block Fruits/Cherry.prefab using Guid(40f9c4b4c2dd54c0c93b392471f28a97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4937cd564091ebd455c80cbf02fd8d0e') in 0.469706 seconds
+  Import took 0.546159 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.403337 seconds.
+  path: Assets/Game/Assets/Block Fruits/Cherry.prefab
+  artifactKey: Guid(40f9c4b4c2dd54c0c93b392471f28a97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/Assets/Block Fruits/Cherry.prefab using Guid(40f9c4b4c2dd54c0c93b392471f28a97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4937cd564091ebd455c80cbf02fd8d0e') in 0.058483 seconds
+  Import took 0.067733 seconds .
+
+========================================================================
+Received Prepare
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 180.46 ms, found 5 plugins.
+Preloading 1 native plugins for Editor in 1.05 ms.
+Unloading 29 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 145.6 MB.
+System memory in use after: 145.4 MB.
+
+Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 2618.
+Total: 32.200102 ms (FindLiveObjects: 1.209393 ms CreateObjectMapping: 0.426048 ms MarkObjects: 30.101856 ms  DeleteObjects: 0.460896 ms)
+
+========================================================================
+Received Prepare
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 263.26 ms, found 5 plugins.
+Preloading 1 native plugins for Editor in 1.68 ms.
+Unloading 29 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 145.7 MB.
+System memory in use after: 145.5 MB.
+
+Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 2618.
+Total: 79.707797 ms (FindLiveObjects: 2.511716 ms CreateObjectMapping: 0.320681 ms MarkObjects: 75.464737 ms  DeleteObjects: 1.408093 ms)
+
